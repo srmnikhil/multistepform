@@ -18,10 +18,10 @@ A modern, responsive **multi-step form** built with **React**, **Tailwind CSS**,
 
 ## Screenshots
 
-<img src="src/assets/screenshots/home.png"/>
-<img src="src/assets/screenshots/form1.png"/>
-<img src="src/assets/screenshots/form2.png"/>
-<img src="src/assets/screenshots/about.png"/>
+[![Home Page](src/assets/screenshots/home.png)](https://nikhilform.vercel.app)
+[![Form Page](src/assets/screenshots/form1.png)](https://nikhilform.vercel.app/form)
+[![Form Page](src/assets/screenshots/form2.png)](https://nikhilform.vercel.app/form)
+[![About Page](src/assets/screenshots/about.png)](https://nikhilform.vercel.app/about)
 
 ---
 
