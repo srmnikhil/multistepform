@@ -1,4 +1,4 @@
-# MultiStepForm
+# Multi-step Form
 
 A modern, responsive **multi-step form** built with **React**, **Tailwind CSS**, and **Material-UI (MUI)**. Fully **config-driven**, it allows dynamic form creation with text fields, radio buttons, checkboxes, validation, and chapter-wise progress tracking.
 
@@ -37,7 +37,9 @@ npm install
 
 3. Start the development server:
 ```bash
-npm run dev or npm start
+npm run dev
+# or
+npm start
 ```
 ## Usage
 
@@ -76,5 +78,16 @@ const chapters = [
 - **React Router** - Navigation between pages.
 
 ## About the Developer
-- **Nikhil Sharma**
-- 
+- **Nikhil Sharma** - Full Stack Developer (MERN Stack)
+- [LinkedIn](https://linkedin.com/in/srmnikhil)
+- [GitHub](https://github.com/srmnikhil)
+- Email: srmnikhilswn@gmail.com
+
+## License
+- This project is **open-source** and free to use for personal or commercial purposes.
+
+---
+
+If you want, I can also make a **more visually appealing version** with badges for React, Tailwind, MUI, and NPM, so your GitHub looks extra professional.  
+
+Do you want me to do that?
