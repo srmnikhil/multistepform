@@ -16,9 +16,12 @@ A modern, responsive **multi-step form** built with **React**, **Tailwind CSS**,
 
 ---
 
-## Demo
+## Screenshots
 
-![Form Screenshot](./assets/form.svg)
+<img src="src/assets/screenshots/home.png"/>
+<img src="src/assets/screenshots/form1.png"/>
+<img src="src/assets/screenshots/form2.png"/>
+<img src="src/assets/screenshots/about.png"/>
 
 ---
 
