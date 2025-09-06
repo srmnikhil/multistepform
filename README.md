@@ -1,5 +1,12 @@
 # Multi-step Form
 
+<p align="center">
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></a>
+  <a href="https://mui.com/"><img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white" alt="MUI"/></a>
+  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite"/></a>
+</p>
+
 A modern, responsive **multi-step form** built with **React**, **Tailwind CSS**, and **Material-UI (MUI)**. Fully **config-driven**, it allows dynamic form creation with text fields, radio buttons, checkboxes, validation, and chapter-wise progress tracking.
 
 ---
@@ -90,7 +97,3 @@ const chapters = [
 - This project is **open-source** and free to use for personal or commercial purposes.
 
 ---
-
-If you want, I can also make a **more visually appealing version** with badges for React, Tailwind, MUI, and NPM, so your GitHub looks extra professional.  
-
-Do you want me to do that?
